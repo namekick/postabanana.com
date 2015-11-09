@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+#graphic {
+    position: relative;
+    width: 945px;
+    margin: auto;
+    -webkit-animation: fade 3s 0.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+@-webkit-keyframes fade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+#url {
+    color: #464646;
+    font-family: "Open Sans";
+    font-size: 0.68em;
+    position: absolute;
+    top: 143px;
+    left: 318px;
+}
+.link {
+    width: 255px;
+    height: 34px;
+    top: 405px;
+    left: 345px;
+    position: absolute;
+    display: block;
+}
