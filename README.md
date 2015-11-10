@@ -1,4 +1,4 @@
-# NameKick domain - www.postabanana.com
-The sale page for the domain www.postabanana.com
+# NameKick domain - postabanana.com
+The sale page for the domain postabanana.com
 
 To purchase, please contact hswiftj@gmail.com
